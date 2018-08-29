@@ -1,6 +1,6 @@
 package com.zeus;
 
-public class Printer {
+public class ffPrinter {
     private int tonerLevel;
     private int pagesPrinted;
     private boolean duplex;
