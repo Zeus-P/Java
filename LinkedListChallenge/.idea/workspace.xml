@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d453c1c3-9121-446f-a49b-c375c14b6815" name="Default" comment="" />
+    <list default="true" id="9ee5bb2d-7637-48e2-8d6a-871f9c8d5981" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,12 +12,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Branch.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/zeus/Branch.java">
+      <file leaf-file-name="Album.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/zeus/Album.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="808">
-              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="216">
+              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -39,10 +41,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/zeus/Customer.java" />
-        <option value="$PROJECT_DIR$/src/com/zeus/Bank.java" />
+        <option value="$PROJECT_DIR$/src/com/zeus/Song.java" />
         <option value="$PROJECT_DIR$/src/com/zeus/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/zeus/Branch.java" />
+        <option value="$PROJECT_DIR$/src/com/zeus/Album.java" />
       </list>
     </option>
   </component>
@@ -66,25 +67,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="AutoBoxingAndUnboxingChallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoBoxingAndUnboxingChallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedListChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LinkedListChallenge" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="AutoBoxingAndUnboxingChallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoBoxingAndUnboxingChallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedListChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LinkedListChallenge" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="AutoBoxingAndUnboxingChallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoBoxingAndUnboxingChallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedListChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LinkedListChallenge" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="zeus" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -92,6 +91,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -118,7 +119,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="AutoBoxingAndUnboxingChallenge" />
+      <module name="LinkedListChallenge" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -152,11 +153,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d453c1c3-9121-446f-a49b-c375c14b6815" name="Default" comment="" />
-      <created>1539451316913</created>
+      <changelist id="9ee5bb2d-7637-48e2-8d6a-871f9c8d5981" name="Default" comment="" />
+      <created>1539859439185</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1539451316913</updated>
+      <updated>1539859439185</updated>
     </task>
     <servers />
   </component>
@@ -175,7 +176,8 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947807" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947807" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -186,10 +188,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32646757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32955715" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -200,68 +201,86 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/zeus/Branch.java">
+    <entry file="file://$PROJECT_DIR$/src/com/zeus/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="29" column="67" lean-forward="true" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zeus/Branch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zeus/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="1026">
+          <caret line="40" column="23" lean-forward="false" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
           <folding>
-            <marker date="1539528291481" expanded="true" signature="195:320" ph="{...}" />
-            <marker date="1539528291481" expanded="false" signature="363:373" ph=" { " />
-            <marker date="1539528291481" expanded="false" signature="400:406" ph=" }" />
-            <marker date="1539528291481" expanded="false" signature="435:446" ph=" { " />
-            <marker date="1539528291481" expanded="false" signature="458:464" ph=" }" />
-            <marker date="1539528291481" expanded="false" signature="512:523" ph=" { " />
-            <marker date="1539528291481" expanded="false" signature="543:549" ph=" }" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zeus/Bank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-          <folding>
-            <marker date="1539531844304" expanded="true" signature="162:243" ph="{...}" />
-            <marker date="1539531844304" expanded="true" signature="291:454" ph="{...}" />
-            <marker date="1539531844304" expanded="true" signature="547:730" ph="{...}" />
-            <marker date="1539531844304" expanded="true" signature="822:1005" ph="{...}" />
-            <marker date="1539531844304" expanded="true" signature="1054:1312" ph="{...}" />
-            <marker date="1539531844304" expanded="true" signature="1390:2271" ph="{...}" />
+            <marker date="1539884182008" expanded="true" signature="26:106" ph="..." />
+            <marker date="1539884182008" expanded="false" signature="185:192" ph="&lt;~&gt;" />
+            <marker date="1539884182008" expanded="true" signature="239:1469" ph="{...}" />
+            <marker date="1539884182008" expanded="false" signature="1055:1061" ph="&lt;~&gt;" />
+            <marker date="1539884182008" expanded="true" signature="1525:1826" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zeus/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="1080">
+          <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
           <folding>
-            <marker date="1539533558475" expanded="true" signature="83:1099" ph="{...}" />
+            <marker date="1539884182008" expanded="true" signature="26:106" ph="..." />
+            <marker date="1539884182008" expanded="false" signature="185:192" ph="&lt;~&gt;" />
+            <marker date="1539884182008" expanded="true" signature="239:1469" ph="{...}" />
+            <marker date="1539884182008" expanded="false" signature="1055:1061" ph="&lt;~&gt;" />
+            <marker date="1539884182008" expanded="true" signature="1525:1826" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zeus/Branch.java">
+    <entry file="file://$PROJECT_DIR$/src/com/zeus/Album.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="808">
-          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="945">
+          <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedListChallenge.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zeus/Song.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="14" column="69" lean-forward="false" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+          <folding>
+            <marker date="1539884182088" expanded="true" signature="142:211" ph="{...}" />
+            <marker date="1539884182088" expanded="false" signature="241:252" ph=" { " />
+            <marker date="1539884182088" expanded="false" signature="270:276" ph=" }" />
+            <marker date="1539884182088" expanded="true" signature="389:400" ph=" { " />
+            <marker date="1539884182088" expanded="true" signature="438:444" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zeus/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <marker date="1539884182008" expanded="true" signature="26:106" ph="..." />
+            <marker date="1539884182008" expanded="false" signature="185:192" ph="&lt;~&gt;" />
+            <marker date="1539884182008" expanded="true" signature="239:1469" ph="{...}" />
+            <marker date="1539884182008" expanded="false" signature="1055:1061" ph="&lt;~&gt;" />
+            <marker date="1539884182008" expanded="true" signature="1525:1826" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zeus/Album.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
